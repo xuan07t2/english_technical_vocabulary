@@ -1,4 +1,10 @@
 # english_technical_vocabulary
+# https://www.youtube.com/watch?v=TNFKG0yvDx4&list=PLD6B222E02447DC07 BBC
+# https://www.youtube.com/watch?v=wBuA589kfMg&t=7s USA
+# https://www.youtube.com/watch?v=BM39PhEplOU USA
+# https://www.youtube.com/watch?v=a58I1IOKBNQ 12 nguyen am
+# https://www.youtube.com/watch?v=RfGq5tSxePc 8 nguyen am doi
+# https://www.youtube.com/watch?v=HXNl8jod7AI 24 phu am
 
 optimize verb
  /ˈɒptɪmaɪz/
@@ -120,13 +126,112 @@ frustrating adjective
 ​causing you to feel annoyed and impatient because you cannot do or achieve what you want
 It's frustrating to have to wait so long.
 
+hands-on adjective
+ /ˌhændz ˈɒn/
+ /ˌhændz ˈɑːn/
+[usually before noun]
+​doing something rather than just talking about it
+hands-on computer training
 
+whether conjunction
+ OPAL W
+ /ˈweðə(r)/
+ /ˈweðər/
+​  used to show that something is true in either of two cases
+You are entitled to a free gift whether you accept our offer of insurance or not.
 
+established adjective
+ /ɪˈstæblɪʃt/
+ /ɪˈstæblɪʃt/
+[only before noun]
+​respected or given official status because it has existed or been used for a long time
+They are an established company with a good reputation.
 
+recurrent adjective
+ /rɪˈkʌrənt/
+ /rɪˈkɜːrənt/
+​that happens again and again
+recurrent infections
 
+towards preposition
+ 
+ /təˈwɔːdz/
+ /tɔːrdz/
+(also toward  /təˈwɔːd/  /tɔːrd/ especially in North American English)
+​  in the direction of somebody/something
+They were heading towards the German border.
 
+distinguish verb
+ OPAL WOPAL S
+ /dɪˈstɪŋɡwɪʃ/
+ /dɪˈstɪŋɡwɪʃ/
+Verb Forms
+​ [intransitive, transitive] to recognize the difference between two people or things
+SYNONYM differentiate
+ distinguish between A and B At what age are children able to distinguish between right and wrong?
 
+suspend verb 
+ /səˈspend/
+ /səˈspend/
+Verb Forms
+​ [often passive] (formal) to hang something from something else
+ be suspended from something A lamp was suspended from the ceiling.
 
+accelerate verb 
+ /əkˈseləreɪt/
+ /əkˈseləreɪt/
+Verb Forms
+​ [intransitive, transitive] to happen faster or earlier; to make something happen faster or earlier
+Inflation continues to accelerate.
 
+right away/off
+​immediately; without delay
+I want it sent right away.
+I told him right off what I thought of him.
 
+towards preposition 
+ /təˈwɔːdz/
+ /tɔːrdz/
+(also toward  /təˈwɔːd/  /tɔːrd/ especially in North American English)
+​  getting closer to achieving something
+This is a first step towards political union.
 
+secure adjective 
+ /sɪˈkjʊə(r)/
+ /sɪˈkjʊr/
+certain/safe
+​  likely to continue or be successful for a long time
+SYNONYM safe
+a secure job/income
+
+subject verb
+OPAL W
+ /səbˈdʒekt/
+ /səbˈdʒekt/
+(formal)
+Verb Forms
+Phrasal Verbs
+​subject something (to something) to bring a country or group of people under your control, especially by using force
+The Roman Empire subjected most of Europe to its rule.
+
+trade-off noun
+ /ˈtreɪd ɒf/
+ /ˈtreɪd ɔːf/
+​trade-off (between something and something) the act of balancing two things that are opposed to each other
+a trade-off between increased production and a reduction in quality
+
+principal noun 
+ /ˈprɪnsəpl/
+ /ˈprɪnsəpl/ 
+a person that you are representing, especially in business or law
+The shareholders are principals and the managers are agents.
+
+identity noun
+ OPAL WOPAL S
+ /aɪˈdentəti/
+ /aɪˈdentəti/
+(plural identities)
+​  [countable, uncountable]
+(abbreviation ID)
+who or what somebody/something is
+The police are trying to discover the identity of the killer.
