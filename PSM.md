@@ -220,3 +220,25 @@ spread verb
  /spred/
  /spred/
  [transitive] spread somebody/something to cause somebody/something to be in a number of different places
+
+adaptive adjective
+OPAL W
+/əˈdæptɪv/
+/əˈdæptɪv/
+(specialist)
+​connected with changing; able to change when necessary in order to deal with different situations
+Adaptive learning systems offer students customized learning experiences according to their needs and capabilities.
+
+nutshell noun
+/ˈnʌtʃel/
+/ˈnʌtʃel/
+Idioms
+Idioms
+(put something) in a nutshell
+​(to say or express something) in a very clear way, using few words
+
+stakeholder noun
+/ˈsteɪkhəʊldə(r)/
+/ˈsteɪkhəʊldər/
+​a person or company that is involved in a particular organization, project, system, etc., especially because they have invested money in it
+All our employees are stakeholders in the company.
