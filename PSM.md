@@ -242,3 +242,29 @@ stakeholder noun
 /ˈsteɪkhəʊldər/
 ​a person or company that is involved in a particular organization, project, system, etc., especially because they have invested money in it
 All our employees are stakeholders in the company.
+
+determine verb
+ OPAL WOPAL S
+ /dɪˈtɜːmɪn/
+ /dɪˈtɜːrmɪn/
+(formal)
+Verb Forms
+​  [transitive] to discover the facts about something; to calculate something exactly
+SYNONYM establish
+ determine something An inquiry was set up to determine the cause of the accident.
+ 
+philosophy noun 
+ /fəˈlɒsəfi/
+ /fəˈlɑːsəfi/
+​  [uncountable] the study of the nature and meaning of the universe and of human life
+ philosophy of something the philosophy of science
+
+theory noun
+ OPAL WOPAL S
+ /ˈθɪəri/
+ /ˈθiːəri/,  /ˈθɪri/
+(plural theories)
+Idioms
+​  [countable, uncountable] a formal set of ideas that is intended to explain why something happens or exists
+ theory of something the theory of evolution/relativity
+
