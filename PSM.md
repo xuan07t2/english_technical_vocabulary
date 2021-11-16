@@ -267,4 +267,84 @@ theory noun
 Idioms
 ​  [countable, uncountable] a formal set of ideas that is intended to explain why something happens or exists
  theory of something the theory of evolution/relativity
+ 
+ upon preposition
+ 
+ /əˈpɒn/
+ /əˈpɑːn/
+Idioms
+​  (formal, especially British English)
+= on
+The decision was based upon two considerations.
+
+collective adjective 
+ /kəˈlektɪv/
+ /kəˈlektɪv/
+[usually before noun]
+​ done or shared by all members of a group of people; involving a whole group or society
+collective leadership/decision-making/responsibility
+
+their determiner 
+ /ðeə(r)/
+ /ðer/
+the possessive form of they
+​  of or belonging to people, animals or things that have already been mentioned or are easily identified
+
+interaction noun
+ OPAL WOPAL S
+ /ˌɪntərˈækʃn/
+ /ˌɪntərˈækʃn/
+[uncountable, countable]
+​ interaction (between A and B) | interaction (of A) (with B) the act of communicating with somebody, especially while you work, play or spend time with them
+the interaction between performers and their audience
+
+process noun
+ OPAL WOPAL S
+ /ˈprəʊses/
+ /ˈprɑːses/
+​  a series of things that are done in order to achieve a particular result
+the consultation/planning process
+
+employ verb
+ OPAL W
+ /ɪmˈplɔɪ/
+ /ɪmˈplɔɪ/
+Verb Forms
+Idioms
+(formal) to use something such as a skill, method, etc. for a particular purpose
+He criticized the repressive methods employed by the country's government.
+
+empiricism noun
+ /ɪmˈpɪrɪsɪzəm/
+ /ɪmˈpɪrɪsɪzəm/
+[uncountable] (philosophy)
+​the use of experiments or experience as the basis for your ideas; the belief in these methods
+
+lean verb
+ 
+ /liːn/
+ /liːn/
+[intransitive] to rest on or against something for support
+ lean against something A shovel was leaning against the wall.
+ lean on something The old man was leaning heavily on a stick.
+ 
+ assert verb
+ OPAL W
+ /əˈsɜːt/
+ /əˈsɜːrt/
+Verb Forms
+​ to state clearly and definitely that something is true
+ assert that… She continued to assert that she was innocent.
+ 
+ 
+ observe verb
+ OPAL WOPAL S
+ /əbˈzɜːv/
+ /əbˈzɜːrv/
+Verb Forms
+[transitive, intransitive] (formal) to watch somebody/something carefully, especially to learn more about them
+SYNONYM monitor
+He observes keenly, but says little.
+
+
 
