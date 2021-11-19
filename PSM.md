@@ -268,6 +268,29 @@ stakeholder noun
 ​a person or company that is involved in a particular organization, project, system, etc., especially because they have invested money in it
 All our employees are stakeholders in the company.
 
+employ verb
+ OPAL W
+ /ɪmˈplɔɪ/
+ /ɪmˈplɔɪ/
+ (formal) to use something such as a skill, method, etc. for a particular purpose
+ employ something to employ a technique/strategy/tactic
+He criticized the repressive methods employed by the country's government.
+
+efficacy noun
+OPAL W
+ /ˈefɪkəsi/
+ /ˈefɪkəsi/
+[uncountable] (formal)
+​the ability of something to produce the results that are wanted
+SYNONYM effectiveness
+to evaluate the efficacy and safety of the treatment
+
+empiricism noun
+ /ɪmˈpɪrɪsɪzəm/
+ /ɪmˈpɪrɪsɪzəm/
+[uncountable] (philosophy)
+​the use of experiments or experience as the basis for your ideas; the belief in these methods
+
 determine verb
  OPAL WOPAL S
  /dɪˈtɜːmɪn/
