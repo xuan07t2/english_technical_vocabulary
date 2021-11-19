@@ -164,23 +164,21 @@ This pen is useless.
 humble verb
  /ˈhʌmbl/
  /ˈhʌmbl/
- humble yourself to show that you are not too proud to ask for something, admit that you have been wrong, etc.
-He refused to humble himself and ask her forgiveness.
+ used to suggest that you are not as important as other people, but in a way that is not sincere or not very serious
+In my humble opinion, you were in the wrong.
 
 adopt verb
  OPAL W
  /əˈdɒpt/
  /əˈdɑːpt/
-​[transitive] adopt something (formal) to use a particular manner, way of speaking, expression, etc.
-He adopted an air of indifference.
+​[transitive] to take somebody else’s child into your family and become its legal parent(s)
+a campaign to encourage childless couples to adopt
 
 beyond preposition
  OPAL WOPAL S
  /bɪˈjɒnd/
  /bɪˈjɑːnd/
 Idioms
-​  on or to the further side of something
-The road continues beyond the village up into the hills.
 more than something
 Our success was far beyond what we thought possible.
 
@@ -191,6 +189,12 @@ exclude verb
 Verb Forms
 ​ exclude something (from something) to deliberately not include something in what you are doing or considering
 The cost of borrowing has been excluded from the inflation figures.
+
+process1 noun
+ OPAL WOPAL S
+ /ˈprəʊses/
+ /ˈprɑːses/
+​  a series of things that are done in order to achieve a particular result
 
 devise verb
  
@@ -207,6 +211,18 @@ tactic noun
  /ˈtæktɪk/
 ​ [countable, usually plural] the particular method you use to achieve something
 They tried all kinds of tactics to get us to go.
+
+vary verb
+ OPAL WOPAL S
+ /ˈveəri/
+ /ˈveri/,  /ˈværi/
+Word Family
+Verb Forms
+Idioms
+​  [intransitive] (of a group of similar things) to be different from each other in size, shape, etc.
+New techniques were introduced with varying degrees of success.
+Estimates of how many civilians were killed varied widely.
+Class size varies greatly.
 
 elsewhere adverb
  OPAL W
@@ -236,6 +252,15 @@ Idioms
 Idioms
 (put something) in a nutshell
 ​(to say or express something) in a very clear way, using few words
+
+foster verb
+ 
+ /ˈfɒstə(r)/
+ /ˈfɑːstər/
+Verb Forms
+​ [transitive] foster something to encourage something to develop
+SYNONYM encourage, promote
+The club's aim is to foster better relations within the community.
 
 stakeholder noun
 /ˈsteɪkhəʊldə(r)/
@@ -267,84 +292,4 @@ theory noun
 Idioms
 ​  [countable, uncountable] a formal set of ideas that is intended to explain why something happens or exists
  theory of something the theory of evolution/relativity
- 
- upon preposition
- 
- /əˈpɒn/
- /əˈpɑːn/
-Idioms
-​  (formal, especially British English)
-= on
-The decision was based upon two considerations.
-
-collective adjective 
- /kəˈlektɪv/
- /kəˈlektɪv/
-[usually before noun]
-​ done or shared by all members of a group of people; involving a whole group or society
-collective leadership/decision-making/responsibility
-
-their determiner 
- /ðeə(r)/
- /ðer/
-the possessive form of they
-​  of or belonging to people, animals or things that have already been mentioned or are easily identified
-
-interaction noun
- OPAL WOPAL S
- /ˌɪntərˈækʃn/
- /ˌɪntərˈækʃn/
-[uncountable, countable]
-​ interaction (between A and B) | interaction (of A) (with B) the act of communicating with somebody, especially while you work, play or spend time with them
-the interaction between performers and their audience
-
-process noun
- OPAL WOPAL S
- /ˈprəʊses/
- /ˈprɑːses/
-​  a series of things that are done in order to achieve a particular result
-the consultation/planning process
-
-employ verb
- OPAL W
- /ɪmˈplɔɪ/
- /ɪmˈplɔɪ/
-Verb Forms
-Idioms
-(formal) to use something such as a skill, method, etc. for a particular purpose
-He criticized the repressive methods employed by the country's government.
-
-empiricism noun
- /ɪmˈpɪrɪsɪzəm/
- /ɪmˈpɪrɪsɪzəm/
-[uncountable] (philosophy)
-​the use of experiments or experience as the basis for your ideas; the belief in these methods
-
-lean verb
- 
- /liːn/
- /liːn/
-[intransitive] to rest on or against something for support
- lean against something A shovel was leaning against the wall.
- lean on something The old man was leaning heavily on a stick.
- 
- assert verb
- OPAL W
- /əˈsɜːt/
- /əˈsɜːrt/
-Verb Forms
-​ to state clearly and definitely that something is true
- assert that… She continued to assert that she was innocent.
- 
- 
- observe verb
- OPAL WOPAL S
- /əbˈzɜːv/
- /əbˈzɜːrv/
-Verb Forms
-[transitive, intransitive] (formal) to watch somebody/something carefully, especially to learn more about them
-SYNONYM monitor
-He observes keenly, but says little.
-
-
 
