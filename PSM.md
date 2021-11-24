@@ -262,6 +262,14 @@ Verb Forms
 SYNONYM encourage, promote
 The club's aim is to foster better relations within the community.
 
+encourage verb
+ OPAL W
+ /ɪnˈkʌrɪdʒ/
+ /ɪnˈkɜːrɪdʒ/
+Verb Forms
+​  to give somebody support, courage or hope
+ encourage somebody We were greatly encouraged by the positive response of the public.
+
 stakeholder noun
 /ˈsteɪkhəʊldə(r)/
 /ˈsteɪkhəʊldər/
@@ -275,6 +283,13 @@ employ verb
  (formal) to use something such as a skill, method, etc. for a particular purpose
  employ something to employ a technique/strategy/tactic
 He criticized the repressive methods employed by the country's government.
+
+practice noun
+ OPAL WOPAL S
+ /ˈpræktɪs/
+ /ˈpræktɪs/
+Idioms
+for improving skill
 
 efficacy noun
 OPAL W
@@ -290,6 +305,14 @@ empiricism noun
  /ɪmˈpɪrɪsɪzəm/
 [uncountable] (philosophy)
 ​the use of experiments or experience as the basis for your ideas; the belief in these methods
+
+assert verb
+ OPAL W
+ /əˈsɜːt/
+ /əˈsɜːrt/
+Verb Forms
+​ to state clearly and definitely that something is true
+ assert that… She continued to assert that she was innocent.
 
 determine verb
  OPAL WOPAL S
@@ -316,3 +339,21 @@ Idioms
 ​  [countable, uncountable] a formal set of ideas that is intended to explain why something happens or exists
  theory of something the theory of evolution/relativity
 
+iterative adjective
+ /ˈɪtərətɪv/
+ /ˈɪtəreɪtɪv/,  /ˈɪtərətɪv/
+​(of a process) that involves repeating a process or set of instructions again and again, each time applying it to the result of the previous stage
+predictability noun
+ /prɪˌdɪktəˈbɪləti/
+ /prɪˌdɪktəˈbɪləti/
+[uncountable]
+​the quality something has when it is possible for you to know in advance that it will happen or what it will be like
+Many young offenders commit further crimes with alarming predictability.
+
+engage verb
+ OPAL W
+ /ɪnˈɡeɪdʒ/
+ /ɪnˈɡeɪdʒ/
+Verb Forms
+Phrasal Verbs
+​  [transitive] engage something/somebody (formal) to succeed in attracting and keeping somebody’s attention and interest
